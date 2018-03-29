@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "387048784002",
+    "firebase_url": "https://ecotrack-eb473.firebaseio.com",
+    "project_id": "ecotrack-eb473",
+    "storage_bucket": "ecotrack-eb473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387048784002:android:07e81002f6168013",
+        "android_client_info": {
+          "package_name": "com.example.ecotrack.ecotrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387048784002-0306pvcn6cgn3t8sdtqplsf2r2od9boj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecotrack.ecotrack",
+            "certificate_hash": "cdf376d7ac42176bf157b2cce212d1e3348789ea"
+          }
+        },
+        {
+          "client_id": "387048784002-6c2sa6b3dceb82lnbqkh7jc699qv3nc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb8KVLxzr4Wy8ehdg8wgv_3RRaLGRwS7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387048784002-6c2sa6b3dceb82lnbqkh7jc699qv3nc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387048784002:android:5b802d46865a6467",
+        "android_client_info": {
+          "package_name": "com.example.muzza.carbon1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387048784002-dqgr2f75t2fc7hl96bq423q6nn4rvd12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muzza.carbon1",
+            "certificate_hash": "e181b2de8cb5cda0290cab6be0e927ba9844d066"
+          }
+        },
+        {
+          "client_id": "387048784002-1579l1neetl7ec2m4h9dtg32gd44q8qe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muzza.carbon1",
+            "certificate_hash": "2b5d09482fcd229f6496fb32f949a0b150191e84"
+          }
+        },
+        {
+          "client_id": "387048784002-6c2sa6b3dceb82lnbqkh7jc699qv3nc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb8KVLxzr4Wy8ehdg8wgv_3RRaLGRwS7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387048784002-6c2sa6b3dceb82lnbqkh7jc699qv3nc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

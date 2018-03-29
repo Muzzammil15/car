@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Carbon1</string>
+    <string name="title_activity_home_page">HomePage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">My profile</string>
+
+    <string-array name="vehicle_array">
+        <item>Car</item>
+        <item>Van</item>
+        <item>Motorbike</item>
+    </string-array>
+
+
+    <string-array name="vehicleCategory_array">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Average</item>
+    </string-array>
+
+</resources>
